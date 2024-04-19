@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.custom-bg-color {
+    background-color: #141D38;
+}
+.text-primary-2{
+    color: #43baff;
+
+}
+
+.envelope{
+    display: flex;
+    gap: 10px;
+    margin-left: 50px;
+}
+.clock{
+    display: flex;
+    gap: 10px;
+    margin-left: 50px;
+}
+.link{
+    display: flex;
+    gap: 30px;
+    margin-left:35%;
+}
+.icons{
+    display: flex;
+    gap: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.social-media-text p::after{
+    content: 'Hire Us';
+
+    color: blue;
+
+}
