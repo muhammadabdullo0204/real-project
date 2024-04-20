@@ -1,0 +1,22 @@
+@media only screen and (max-width: 768px) {
+     
+
+
+    .top-of-navbar{
+        display: none;
+    }
+
+
+
+
+
+  }
+  
+  
+  @media only screen and (max-width: 480px) {
+
+    .top-of-navbar{
+        display: none;
+    }
+  }
+  
