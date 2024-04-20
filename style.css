@@ -785,8 +785,23 @@ margin-top: 100px;
 }
 
 .creator{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
     text-align: center;
     color: grey;
+}
+.creator p{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
 }
 .footer-icons{
     display: flex;
