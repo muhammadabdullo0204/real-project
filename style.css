@@ -14,7 +14,7 @@
 
 .envelope{
     display: flex;
-    gap: 10px;
+    gap: 3px;
     margin-left: 50px;
     opacity: .7;
 
@@ -23,9 +23,10 @@
     margin-top: 5px;
 }
 .clock{
+
     display: flex;
-    gap: 10px;
-    margin-left: 50px;
+    gap: 3px;
+    margin-left: 0px;
     opacity: .7;
 }
 .clock i{
